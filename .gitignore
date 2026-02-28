@@ -1,2 +1,4 @@
 Kaggle02/
 data/
+*.pth
+*.pt
